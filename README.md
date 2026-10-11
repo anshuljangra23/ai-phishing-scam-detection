@@ -8,13 +8,11 @@ PhishGuard AI is an academic cybersecurity project that helps users assess suspi
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/API-FastAPI-009688?logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Scikit-learn](https://img.shields.io/badge/ML-scikit--learn-orange?logo=scikitlearn)](https://scikit-learn.org/)
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/anshuljangra23/ai-phishing-scam-detection)
 
 ---
 
 ## Contents
 
-- [Deploy online](#deploy-online)
 - [What it does](#what-it-does)
 - [How it works](#how-it-works)
 - [Technology stack](#technology-stack)
@@ -26,17 +24,6 @@ PhishGuard AI is an academic cybersecurity project that helps users assess suspi
 - [Limitations](#limitations)
 - [Future improvements](#future-improvements)
 - [Disclaimer](#disclaimer)
-
-## Deploy online
-
-A Render Blueprint is included in `render.yaml`. To publish a live demo:
-
-1. Click the **Deploy to Render** button above and sign in to Render.
-2. Review the `phishguard-ai` web service configuration and authorize Render to access this public GitHub repository.
-3. Click **Apply** or **Deploy Blueprint** when Render shows the proposed service.
-4. Wait for the build and deployment to complete, then open the public `onrender.com` URL shown by Render.
-
-The configuration uses the free web-service plan for demonstration. Free services can spin down after inactivity, so the first request after a quiet period may take around a minute to respond. Treat the site as an academic demo, not a production security service.
 
 ## What it does
 
